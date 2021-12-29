@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @audenbit
-- 👀 I’m interested in Linux and Python
-- 🌱 I’m currently learning stuff in school
-- 💞️ I’m looking to collaborate on making scripts for linux
+Nothing much here
 - 📫 You can reach me through this account or on discord Audenbit#2649
 
 <!---
